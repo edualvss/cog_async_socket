@@ -81,3 +81,5 @@ cog_server/cog_challenge_server
 cog_client/cog_challenge_client
 /cog_server/build
 /cog_client/build
+cog_client/client
+cog_server/server
