@@ -1,0 +1,1 @@
+../cog_server/setenv.sh

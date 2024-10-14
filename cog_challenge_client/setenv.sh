@@ -1,1 +1,0 @@
-../cog_challenge_server/setenv.sh
