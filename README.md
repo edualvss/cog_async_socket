@@ -88,7 +88,7 @@ Em resumo, trabalhar com a boost pela primeira vez.
 
 Há 2 projetos no repositório, o [`servidor`](https://github.com/edualvss/cog_async_socket/tree/main/cog_server) e o [`cliente`](https://github.com/edualvss/cog_async_socket/tree/main/cog_client).
 
-É necessário compilar os 2 projetos separadamente! Há um CMakeLists para cada projeto.
+É necessário compilar os 2 projetos! Isso pode ser feito separadamente, pois há um CMakeLists para cada projeto, ou na raiz do repositório com o CMakeLists.txt que gera os 2 executáveis.
 
 ### Variáveis de ambiente
 
